@@ -1,0 +1,23 @@
+.a{
+    
+        
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 100px;
+    border-radius: 100px;
+    
+}
+.img{
+    max-width: fit-content;
+    max-height: max-content;
+}
+.b{
+    text-align: center;
+    padding-top: 100px;
+    
+    
+}
+button{
+    width: 100px;
+}
